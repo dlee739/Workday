@@ -1,7 +1,8 @@
 # Workday
-Full-stack web application for employee management system
+Full-stack web application for employee management system.
 
 **NOTE**
+********
 Make sure you have requested an access to the pre-defined MySQL server, or make one yourself. 
 Don't forget to configure spring.datasource in application.properties
 SQL Command:
